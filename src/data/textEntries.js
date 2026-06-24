@@ -43,4 +43,5 @@ export const textEntries = [
   'git push 에러 원인과 해결법을 알려주면서 바로 해결법을 실행해주세요. 지금 이 프롬프트도 계속 cavas-newww에 기재해 주세요.',
   'B로 진행해주세요.',
   'https://github.com/ccatjju/otherExpression 으로 생성했습니다.',
+  'Vercel 배포 완료했어요. 주소 확인해주세요.',
 ];
